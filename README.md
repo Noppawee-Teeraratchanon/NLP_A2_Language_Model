@@ -11,3 +11,4 @@ python app/app.py
 Dataset that I used to train: Liverpool F.C. content from wikipedia (https://en.wikipedia.org/wiki/Liverpool_F.C.)
 
 Screenshot of my web interface:
+![Alt Text](https://github.com/Noppawee-Teeraratchanon/NLP_A2_Language_Model/blob/main/A2%20web%20interface.png)
